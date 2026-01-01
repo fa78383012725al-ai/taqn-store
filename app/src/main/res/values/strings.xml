@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">WebsiteAsApp</string>
-    <string name="website_url">https://www.android.com/</string>
+    <string name="app_name">متجر تقن</string>
+    <string name="website_url">file:///android_asset/index.html</string>
 </resources>
